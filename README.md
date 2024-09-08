@@ -19,7 +19,7 @@ This repository contains the code for a comprehensive Customer Churn Prediction 
 6. Matplotlib & Seaborn: For data visualization and performance analysis.
 
 # Results 
-Below are the screenshot from the UI. User are given choice to input 5 features and Random Forest algorithm is used in the background as it has the highest predictive capability compared to other models. 
+Below are the screenshot from the UI. User are given choice to 5 input and Random Forest algorithm is used in the backend as it has the highest predictive capability compared to other models. 
 
 ![ss1](https://github.com/user-attachments/assets/9eb142ed-3f5c-42b6-8b4f-a22b67e69e36)
 
