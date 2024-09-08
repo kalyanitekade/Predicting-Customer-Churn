@@ -19,4 +19,6 @@ This repository contains the code for a comprehensive Customer Churn Prediction 
 6. Matplotlib & Seaborn: For data visualization and performance analysis.
 
 # Results 
+![ss1](https://github.com/user-attachments/assets/9eb142ed-3f5c-42b6-8b4f-a22b67e69e36)
 
+![ss](https://github.com/user-attachments/assets/f8419494-2b72-4b8e-8d5e-4af3165bbf98)
