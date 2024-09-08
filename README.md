@@ -11,9 +11,9 @@ This repository contains the code for a comprehensive Customer Churn Prediction 
 6. Visualizations: Generated comprehensive visualizations for ROC curves, feature importance, and model performance metrics to evaluate and compare model effectiveness.
 
 # Technologies Used:
-Python: Core language for model development and data manipulation.
-Scikit-learn: For implementing machine learning models and SMOTE.
-LIME: For generating model interpretability and explanations.
-Streamlit: To build a user-friendly web interface for the churn prediction system.
-Pandas & NumPy: For data manipulation and feature engineering.
-Matplotlib & Seaborn: For data visualization and performance analysis.
+1. Python: Core language for model development and data manipulation.
+2. Scikit-learn: For implementing machine learning models and SMOTE.
+3. LIME: For generating model interpretability and explanations.
+4. Streamlit: To build a user-friendly web interface for the churn prediction system.
+5. Pandas & NumPy: For data manipulation and feature engineering.
+6. Matplotlib & Seaborn: For data visualization and performance analysis.
