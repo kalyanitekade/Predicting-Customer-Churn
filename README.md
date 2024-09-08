@@ -17,3 +17,6 @@ This repository contains the code for a comprehensive Customer Churn Prediction 
 4. Streamlit: To build a user-friendly web interface for the churn prediction system.
 5. Pandas & NumPy: For data manipulation and feature engineering.
 6. Matplotlib & Seaborn: For data visualization and performance analysis.
+
+# Results 
+
